@@ -1,0 +1,9 @@
+{
+  "name": "personal-email-domains",
+  "repo": "ivolo/personal-email-domains",
+  "description": "Å list of personal email domains like gmail.com",
+  "version": "0.0.1",
+  "keywords": ["validate", "email", "personal", "domains"],
+  "license": "MIT",
+  "json": ["index.json"]
+}
