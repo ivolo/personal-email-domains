@@ -8,6 +8,7 @@
    "att.net",
    "live.com",
    "outlook.com",
+   "outlook.de",
    "aolmail.com",
    "blogger.com",
    "ymail.com",
@@ -23,6 +24,7 @@
    "bigstring.com",
    "fastmail.com",
    "fastmail.fm",
+   "freenet.de",
    "gawab.com",
    "gmail.cn",
    "gmail.co.il",
@@ -31,6 +33,7 @@
    "gmail.com.mx",
    "gmail.kr",
    "gmx.com",
+   "gmx.de",
    "hushmail.com",
    "inbox.com",
    "juno.com",
@@ -2202,5 +2205,7 @@
    "yahoo.co.in",
    "hotmail.co.in",
    "yaho.com",
-   "hotmail.co.in"
+   "hotmail.co.in",
+   "t-online.de",
+   "web.de"
 ]
